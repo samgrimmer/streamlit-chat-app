@@ -2,7 +2,7 @@
 
 My Streamlit chat app application is a relatively simple configurable, dockerised python chat application that allows authenticated users to chat with a [generative ai LLM](https://en.wikipedia.org/wiki/Generative_artificial_intelligence), as well as facilitate recent chat history using an Azure Cosmos NoSql database.
 
-The OneNZ Streamlit chat app application utlises the following frameworks and technologies:
+The Streamlit chat app application utlises the following frameworks and technologies:
 
 - [Streamlit](https://streamlit.io)
 - [Langchain](https://www.langchain.com)
