@@ -86,5 +86,5 @@ az acr repository list --name {acr name}
 
 ```
 
-##Add an identity provider
+## Add an identity provider
 After deployment, you will need to add an identity provider to provide authentication support in your app. [See this tutorial for more information.](https://learn.microsoft.com/en-us/azure/app-service/scenario-secure-app-authentication-app-service)
